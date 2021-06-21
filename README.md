@@ -1,10 +1,10 @@
 ## Olá!👋
 
-## Seja bem vindo!
-
 ## Eu sou o Luiz Alexandre
 
-Amante da qualidade de software e da tecnologia
+Amante da qualidade de software e tecnologia
+
+
 
 *Lifelong Learning* é o termo que resume meu estilo de vida(ler, priorizar, revisar, praticar, ensinar, mentorar e ter uma rotina saudável)
 
@@ -12,7 +12,7 @@ Amante da qualidade de software e da tecnologia
 
 ### Abstract
 
-Analista de Teste Pleno na **BRQ **:computer:
+Analista de Teste Pleno na BRQ:computer:
 
 Graduado em Análise e Desenvolvimento de Sistemas👨‍🎓
 
