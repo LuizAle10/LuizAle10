@@ -1,6 +1,6 @@
-## Hi there!👋
+## Olá!👋
 
-## Welcome!
+## Seja bem vindo!
 
 ## Eu sou o Luiz Alexandre
 
