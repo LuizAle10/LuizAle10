@@ -30,7 +30,9 @@ Referências de estudos: ...
 
 ## Skills
 
-[![img](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)        [![img](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)        [![img](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)        
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+
+
 
 ## Contact 📱
 
