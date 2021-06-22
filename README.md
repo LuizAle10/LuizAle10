@@ -6,7 +6,7 @@ Amante da qualidade de software e tecnologia
 
 
 
-*Lifelong Learning* é o termo que resume meu estilo de vida(ler, priorizar, revisar, praticar, ensinar, mentorar e ter uma rotina saudável)
+Ler, priorizar, revisar, praticar, ensinar, mentorar e ter uma rotina saudável)
 
 
 
