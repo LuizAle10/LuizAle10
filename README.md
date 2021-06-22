@@ -1,11 +1,6 @@
 # Olá!👋
 
- Eu sou o **Luiz Alexandre**😊
- 
-
-Gosto de ler, priorizar, revisar, praticar, ensinar, mentorar e ter uma rotina saudável.
-
-
+ Eu gosto de ler, priorizar, revisar, praticar, ensinar, mentorar e ter uma rotina saudável😊
 
 ### `Sobre mim`
 
