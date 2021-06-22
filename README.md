@@ -6,7 +6,7 @@ Amante da qualidade de software e tecnologia
 
 
 
-Ler, priorizar, revisar, praticar, ensinar, mentorar e ter uma rotina saudável
+Minha missão é ler, priorizar, revisar, praticar, ensinar, mentorar e ter uma rotina saudável
 
 
 
