@@ -8,7 +8,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas👨‍🎓
 
 Amante da qualidade de software e tecnologia❤️
 
-Tenho como objetivo de carreira ser um QA Engineer 🎯
+Tenho como objetivo de carreira me tornar um QA Engineer 🎯
 
 Estou estudando automação de testes, heurísticas de teste de software, técnicas de testes, boas práticas e cultura da qualidade 📚
 
